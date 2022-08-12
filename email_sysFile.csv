@@ -1,0 +1,11 @@
+sender,li.tony@delta-asia.com,,,
+receivers,wong.tom@delta-asia.com,,,li.tony@delta-asia.com
+sender_name,,"Tony, Li Yan Yui",,
+receiver_name,,operators,,
+subject,Voice recognition system,,,
+username,tonyli,,,
+password,delta@321,,,
+server,webmail.deltasia.com,,,
+primary_smtp_address,,,li.tony@delta-asia.com,
+smtpIPaddr,10.0.0.126,,,
+smtpPort,25,,,
